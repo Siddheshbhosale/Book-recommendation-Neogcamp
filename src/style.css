@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Headland+One&display=swap");
+
+*{
+    box-sizing: border-box;
+}
+body{
+   background-image: url(https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+   background-position: center;
+}
+.container{
+    
+    margin: auto;
+    max-width: min(900px,85vh);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1{
+    font-family: "Headland One", serif;
+    color: yellow;
+}
+.info{
+    margin:10px auto;
+    padding:5px;
+    max-width: fit-content;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 0.1rem;
+    border: 2px solid red;
+    border-left: 10px solid yellow;
+    color:white;
+    background-color: rgba(252, 157, 157, 0.356);
+}
+.download{
+    font-size: 1.2rem;
+    color: white;
+    background-color: rgba(247, 162, 162, 0.445);
+}
+
+div button{
+    cursor: pointer;
+    margin: 0.5rem;
+    padding:0.2rem 0.6rem;
+    font-size: 1.5rem;
+    border-radius: 15px;
+    background-color: rgb(116, 226, 230);
+}
+
+div button:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid yellow;
+    transform: scale(1.2,1.2);
+}
+
+.types{
+    
+    margin-top: 1rem;
+    padding: 0px 10px;
+    text-align: center;
+    font-size: 2rem;
+    color: yellow;
+    background-color: rgb(243, 102, 102);
+}
+
+.bookItem{
+    border-top: 2px solid white;
+    margin: 2rem;
+    display: flex;
+}
+
+.bookImage{
+    border: 1.5px solid black;
+    padding:3px;
+    width: 10rem;
+    height: 15rem;
+    margin: 10px;
+    margin-left: 0;
+}
+.bookDetails{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: left;
+  text-align: left;
+  border-left: 5px solid black;
+  padding: 1rem;
+  margin: 10px;
+}
+.bookName {
+    width: fit-content;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    background-color: rgba(247, 162, 162, 0.452);
+}
+.bookAuthor {
+    width: fit-content;
+    font-size: 1.4rem;
+    margin: 0.5rem 0rem;
+    /* color: #a4b0be; */
+    color: rgb(7, 15, 124);
+    background-color: rgba(250, 203, 203, 0.904);
+}
+.bookRating {
+    width: fit-content;
+    font-size: 1.2rem;
+    padding: 0 5px;
+    color: rgb(7, 15, 124);
+    background-color: rgba(250, 203, 203, 0.904);
+}
