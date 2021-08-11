@@ -2,7 +2,10 @@ import React from 'react'
 import './style.css'
 import { useState } from "react";
 import Booksdata from './Booksdata.js';
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6fd5fefac49a7b95d9ced0c451c7161730e36179
 function App(){
   const [type,settype] = useState("PersonalGrowth");
   return(
