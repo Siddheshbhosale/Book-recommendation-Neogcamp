@@ -1,4 +1,4 @@
-export default {
+const Bookdata = {
     PersonalGrowth:[
       {
         softcopy:"https://www.researchgate.net/profile/Rzger-Abdula/post/What_leadership_books_can_you_recommend_for_me/attachment/5bae7b2fcfe4a76455f6c7c2/AS%3A675912282550277%401538161454808/download/The+Magic+of+Thinking+Big.pdf",
@@ -72,3 +72,5 @@ export default {
       }
     ]
   };
+
+  export default Bookdata;

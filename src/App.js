@@ -1,10 +1,10 @@
 import React from 'react'
-import style from './style.css'
+import './style.css'
 import { useState } from "react";
-import Booksdata from './Booksdata';
+import Booksdata from './Booksdata.js';
+
 function App(){
   const [type,settype] = useState("PersonalGrowth");
- 
   return(
     <div className="container">
         <h1 className="title">Siddhesh Book's recommendation</h1>
