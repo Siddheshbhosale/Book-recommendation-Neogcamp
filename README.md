@@ -17,4 +17,4 @@
 
 ### contact me
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@siddheshbhosale&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/omkarghate/)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@siddheshbhosale&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/siddheshbhosale/)
