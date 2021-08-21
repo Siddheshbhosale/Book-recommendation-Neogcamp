@@ -3,6 +3,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Siddheshbhosale)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Siddheshbhosale) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/Siddheshbhosale)
 
+## It's use 
+   * Book-recommendation-app is a webpage where you will see all mostly recommondated books of that particular genre
+   * you need to just select the genre and you will be able to see them. 
+   * you can also download its softcopy by clicking on the image of the book.
 
 ## Technology Stack Used
 
